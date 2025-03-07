@@ -1,0 +1,25 @@
+# Thư mục node_modules, chứa các phụ thuộc của dự án
+node_modules/
+
+# Tệp log
+*.log
+
+# Tệp cấu hình môi trường
+.env
+
+# Các tệp hệ thống của OS (macOS và Windows)
+.DS_Store
+Thumbs.db
+
+# Tệp cài đặt của NPM
+package-lock.json
+
+# Thư mục build (nếu bạn xây dựng ứng dụng frontend, ví dụ trong React)
+build/
+
+# Các thư mục cấu hình IDE/editor
+.vscode/
+.idea/
+
+# Các tệp cài đặt tạm thời của trình soạn thảo
+*.swp
